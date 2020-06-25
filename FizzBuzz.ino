@@ -7,6 +7,7 @@ void setup()
 
 void loop() 
 {
+    printf("%d",num);
     if(num<=100){
       
         printf("%d",num);
